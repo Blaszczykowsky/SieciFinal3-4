@@ -1,0 +1,10 @@
+release/ModelARX.o
+release/RegulatorPID.o
+release/dialog_arx.o
+release/dialog_sieciowy.o
+release/main.o
+release/mainwindow.o
+release/symulator.o
+release/moc_dialog_arx.o
+release/moc_dialog_sieciowy.o
+release/moc_mainwindow.o

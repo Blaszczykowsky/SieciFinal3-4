@@ -1,0 +1,10 @@
+debug/ModelARX.o
+debug/RegulatorPID.o
+debug/dialog_arx.o
+debug/dialog_sieciowy.o
+debug/main.o
+debug/mainwindow.o
+debug/symulator.o
+debug/moc_dialog_arx.o
+debug/moc_dialog_sieciowy.o
+debug/moc_mainwindow.o
